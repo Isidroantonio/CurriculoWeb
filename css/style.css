@@ -1,0 +1,37 @@
+  #header{
+    /*Novamente definimos a largura da div*/
+    width:100%;
+    /* altura da div */
+    height:70px;
+    /* Cor de fundo da div */
+    background-color:rgb(49, 131, 209);
+    font-family: 'Didot';
+    }
+
+  #nome{
+    padding-left: 25px;
+    padding-top: 25px;
+    color: azure;
+  }
+
+  #conteudo{
+    /*Novamente definimos a largura da div*/
+    width:100%;
+    /* altura da div */
+    height:550px;
+    /* Cor de fundo da div */
+    background-color:rgb(155, 224, 245);
+  }
+
+  #footer{
+    /*Novamente definimos a largura da div*/
+    width:100%;
+    /* altura da div */
+    height:100%;
+    /* Cor de fundo da div */
+    background-color:rgb(49, 131, 209);
+    }
+
+  #titulo{
+    font-family: 'Didot';
+  }
